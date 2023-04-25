@@ -1,0 +1,12 @@
+| Data Structure | Time Complexity | --- | --- | --- | --- | --- | --- | --- | Space Complexity |
+| --- | Average | --- | --- | --- | Worst|  --- | --- | --- | --- | Worst |
+| --- | Access| Search | Insertion | Deletion | Access | Search | Insertion | Deletion | --- |
+| Array | O(1) | O(n) | O(n) | O(n) | O(1)| O(n) | O(n) | O(n) | O(n) |
+| Singly-linked List | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
+| Doubly-linked list | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
+| Stack | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
+| Queue | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
+| Hash table | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tree | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Heap | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Graphs | --- | --- | --- | --- | --- | --- | --- | --- | --- |
