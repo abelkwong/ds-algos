@@ -2,11 +2,11 @@
 | --- | Average | --- | --- | --- | Worst|  --- | --- | --- | --- | Worst |
 | --- | Access| Search | Insertion | Deletion | Access | Search | Insertion | Deletion | --- |
 | Array | O(1) | O(n) | O(n) | O(n) | O(1)| O(n) | O(n) | O(n) | O(n) |
-| Singly-linked List | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
-| Doubly-linked list | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
+| SLL | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
+| DLL | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
 | Stack | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
 | Queue | O(n) | O(n) | O(1) | O(1) | O(n) | O(n) | O(1) | O(1) | O(n) |
-| Hash table | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tree | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hash | N/A | O(1) | O(1) | O(1) | N/A | O(n) | O(n) | O(n) | O(n) |
+| Tree | -------------------------- O(log(n)) -------------------------- |
 | Heap | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Graphs | --- | --- | --- | --- | --- | --- | --- | --- | --- |
